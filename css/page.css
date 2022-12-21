@@ -1,0 +1,47 @@
+body {
+    background-color:#FFFFD0;
+
+}
+.position {
+    color: green;
+    list-style-position: inside;
+    ;
+}
+.topic1 {
+    font-size: 30px;
+    color: #F3CCFF;
+}
+.topic2 {
+    font-size: 20px;
+    color:#D09CFA;
+}
+.topic3 {
+    font-size: 14px;
+    color: #A555EC;
+}
+.text {
+    color: black;
+}
+.containerimg {
+    
+    max-width: 10px;
+    max-height: 10px;
+
+    
+}
+
+#container {
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-inline:100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 150px;
+    background-color: #85586F;
+    
+}
+#container {
+    font-family: 'Times New Roman', Times, serif;
+    margin: center;
+    
+}
