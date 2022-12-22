@@ -2,6 +2,14 @@ body {
     background-color:#FFFFD0;
 
 }
+/* .box {
+    margin: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+ 
+} */
 .position {
     color: green;
     list-style-position: inside;
@@ -22,14 +30,6 @@ body {
 .text {
     color: black;
 }
-.containerimg {
-    
-    max-width: 10px;
-    max-height: 10px;
-
-    
-}
-
 #container {
     border: 1px solid black;
     margin-top: 100px;
